@@ -5,7 +5,7 @@ Lottery API:
 - Delete lottery ticket
 - Get all ticket
 - Get ticket by Id
-- Bulk buy (User can buy multiple ticket at a time)
+- Bulk buy (here User can buy multiple ticket at a time)
 - Raffle draw
 
 
